@@ -33,3 +33,4 @@ npm-debug.log
 
 babel/
 prompts/
+node_modules
